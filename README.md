@@ -1,5 +1,7 @@
 # AI-TI-RADS
 
+AI TI-RADS Calculator website: [https://deckard.duhs.duke.edu/~ai-ti-rads](https://deckard.duhs.duke.edu/~ai-ti-rads)
+
 ## Docker
 
 ```
@@ -26,5 +28,5 @@ The first population is initialized with individuals representing ACR TI-RADS wh
 
 ## AI TI-RADS Points
 
-![AI TI-RADS](./ai-tirads.jpeg)
+![AI TI-RADS](./AI-TI-RADS.png)
 
